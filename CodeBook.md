@@ -1,12 +1,12 @@
-===============================+++===================================
+-----------------------
 A tidy data from the project 
 Human Activity Recognition Using Smartphones Dataset
 
 Version 1.0
-===============================+++===================================
+-----------------------
 Gustavo Oliveira Santos
 saquarema@gmail.com
-===============================+++===================================
+-----------------------
 
 
 This tidy data was obtained from the project Human Activity Recognition Using Smartphones Data Set.
