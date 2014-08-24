@@ -7,13 +7,13 @@ Version 1.0
 Gustavo Oliveira Santos
 saquarema@gmail.com
 
-aaa
+
 ###
 
 This tidy data was obtained from the project Human Activity Recognition Using Smartphones Data Set.
 
 The original data can be downloaded in this link:
-[http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip]
+http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 
 This original files has data from two different sets (train and test). Each of this set has information that is divided in three files: "subject" (with de id of the subject from experiments), "x" that contain all information that was captured by the phone and "y", with each activity id informations from the phone information.
 
