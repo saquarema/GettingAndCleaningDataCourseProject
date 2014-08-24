@@ -1,20 +1,21 @@
------------------------
-A tidy data from the project 
-Human Activity Recognition Using Smartphones Dataset
+
+### A tidy data from the project Human Activity Recognition Using Smartphones Dataset
 
 Version 1.0
------------------------
+
+
 Gustavo Oliveira Santos
 saquarema@gmail.com
------------------------
 
+aaa
+###
 
 This tidy data was obtained from the project Human Activity Recognition Using Smartphones Data Set.
 
 The original data can be downloaded in this link:
-http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
+[http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip]
 
-This original files has data from two different sets (train and test). Each of this set has information is divides in three files: "subject" (with de id of the subjesct from experiments), "x" that contain all information that was captured by the phone and "y", with each activity id informations from the phone information.
+This original files has data from two different sets (train and test). Each of this set has information that is divided in three files: "subject" (with de id of the subject from experiments), "x" that contain all information that was captured by the phone and "y", with each activity id informations from the phone information.
 
 From "x" was obtained only the columns related to mean() and std() functions.
 
@@ -26,7 +27,7 @@ In the end was obtained the mean of all new "x" information by Subject and Activ
 
 Description of "x" colums
 
-The features (x" colums) contain "()" and "-" characters. The new colums exclude this characters and replaced the words "mean" and "std" for "Mean" and "Std" to be CamelCase.
+The features ("x" columns) contain "()" and "-" characters. The new columns excluded this characters and replaced the words "mean" and "std" for "Mean" and "Std" to be CamelCase.
 
 Below the Tidy Dataset Structure:
 ======================================
